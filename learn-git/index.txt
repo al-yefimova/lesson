@@ -1,5 +1,5 @@
 Hello,
 
-My name is {name}!
+My name is Oleg Poberegets!
 
 I’m studying Git.
