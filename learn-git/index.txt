@@ -1,5 +1,4 @@
 ﻿Hello,
 
-My name is Kseniya!
+My name 
 
-I’m studying Git.
