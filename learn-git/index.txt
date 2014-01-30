@@ -1,5 +1,5 @@
-Hello,
+﻿Hello,
 
-My name is Oleksandr Rak!
+My name is Kseniya! Paraparapam
 
 I’m studying Git.
