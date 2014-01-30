@@ -1,5 +1,5 @@
-Hello,
+﻿Hello,
 
 My name is Oleg Poberegets!
 
-I’m studying Git.
+I’m studying Git. Vert HARD
