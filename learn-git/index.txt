@@ -2,4 +2,6 @@ Hello,
 
 My name is Alexandra!
 
-I’m studying Git.
+I’m studying Git. Hello
+
+
