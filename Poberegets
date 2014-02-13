@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>My site</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.7.1.min.js"></script>
+    </head>
+    <body>
+    <header>
+        Тут картинка
+    </header>
+    <p><a href="sfgdsfg">Вход</a> или <a href="kkkk">Регистрация</a>
+    <nav><a href="">Статьи </a>
+    <a href="">Блоги </a>
+    <a href="">Автори </a>
+    <a href="">Галерея </a>
+    <a href="">Компании</a></nav>
+    </p>
+    <div class="news">
+        <h1>BMW .....</h1>
+        <p><time>01.02.2010 17:53</time>, Редакция</p>
+        <article>В ближайшие 3 года</article>
+        <p class="quote">"/</p>
+        <blockquote>Дизельний двигатель BMW</blockquote>
+        <img src="" alt="Характеристики">
+        <article>Концептуальний спорткар</article>
+        <h2><span title="Галерея доступна по єтой ссилке">Фотографии</span></h2>
+        <img src="" alt="Картинка">
+    </div>
+    <div class="gallery">
+        Гелерея
+    </div>
+    <aside>
+        <img src="" alt="img">
+        <nav>
+            <a href="">Читают</a>
+            <a href="">Коментируют</a>
+        </nav>
+        <div class="read/com"></div>
+        <hr>
+        <h3>Ответьте на вопрос</h3>
+        <p>Какая марка маши визивает у ваc</p>
+        <form>
+            <p><input type="radio" name="company" value="BMW">BMW<br>
+            <input type="radio" name="company" value="Mersedes">Mersedes<br>
+            <input type="radio" name="company" value="Volwo">Volwo</p>
+            <input type="submit">
+        </form>
+        <h2>Новинки</h2>
+        <form>
+            <input type="image" src=""><br>
+            <input type="image" src="">
+        </form>
+        <div class="new">
+            News
+        </div>
+    </aside>
+    <footer>
+        <p>&#0169 2012 "UA Web Challenge"</p>
+        <div class="sharebuttons">
+        <noindex><nofollow><a rel="nofollow" target="blank" href="http://feeds.feedburner.com/blogotey/new">
+        <img src="http://your_site.ru/...png" width="30" height="30" title="Подписаться!"></a></noindex></nofollow></div>
+        <figure>
+        <p><img src="" alt="Xejfrt"></p>
+        <figcaption>Дизайн от Xeoart<br>2012</figcaption>
+        </figure>
+        
+    </footer>
+    </body>
+</html>
