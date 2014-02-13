@@ -1,3 +1,143 @@
-﻿Hello,
+<!DOCTYPE html>
+<html>
+<head>
+	 <link href="/normalize.css" rel="stylesheet">
+	<title></title>
+	<style>
+	header{
+	 background :rgba(123,123,244,1);
+	   }
+	 ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
 
-I am study Git
+    a {
+      color: rgba(124,244,255,1);
+    }
+    h2 {color: rgba(0,0,0,1);}
+
+    li {display:inline;}
+
+    #right_colomn {
+    	float:right;
+    	position:relative;
+
+    }
+
+    .right{
+    	display:inline;
+    }
+
+    .table {
+    	float:left;
+    	position:relative;
+    }
+
+    #charact {float:right;}
+	 </style>
+</head>
+<body
+	 <header>
+       <img src="/assets/jeff.png">
+           <h1>MINI Roadster Concpept Unveiled</h1>
+     </header>
+   <ul>
+   	<li><a id="login">Вход</a></li>
+   	<li><a id="registration">Регистрация</a></li>
+      <li><a href="#">Cатьи</a></li>
+      <li><a href="#">Блоги</a></li>
+      <li><a href="#">Автор</a></li>
+      <li><a href="#">Галерея</a></li>
+       <li><a href="#">Компании</a></li>
+
+     </ul>
+   <article>
+   	<h2 >BMW запустит в серию гибриденый спорт карт</h2>
+   	 <time>1957-10-04</time>
+
+   	    <p>В близжайшие три года...блаблаблаблаблаблабла</p>
+
+   	   
+        <p  id="notabene"><em>Дизельный двигатель </ br>  блабла</br>блабла < /br></em></p>
+           <p>Концептуальниій спорткар</p>
+
+         <table border="1px"  class="table">
+            <tr>
+                <td>3 litr per 100 km</td>
+                <td>164 kw</td>     
+            </tr>
+            
+            <tr>
+                <td>0-100km/h</td>
+                <td>5.0 sec/td>
+            </tr>
+            
+            <tr>
+                <td>Top speed </td>
+                 <td>250 km/h</td>
+            </tr>
+
+             <tr>
+                <td>Weigh</td>
+                 <td>1.630 - 3,600 lbs</td>
+            </tr>
+        </table>
+    <ul  id="charact">
+    <li>3-cylinder 1.5 liter petrol engine</li>
+    <li>elecrtonic motor - 96 kw</li>
+    <li>Bater Charge time - 1.45 hrs</li>
+    <li>Luggage storage - 100 litres</li>
+  </ul>
+    
+     
+     <p>Єтот автомобиль....</p>
+         <p>Как сообщалось ранее....</p>
+ 	<div id="cars">
+ 		<h2>Фотографии</h2>
+ 		 <div class="photo"><a href="http://main_car.jpg"></div>
+		<table>
+			 <col width="150" valign="top">
+			<th ></th>
+			<tr>
+				<td><img src="http://car1"/></td>
+				<td><img src="http://car2"/></td>
+				<td><img src="http://car3"/></td>
+			</tr>
+			
+			
+		</table>
+		</div>
+<h6>"Знак копирайта " Пресс-служба БМВ </h6>
+ </article>
+<article >
+
+      
+         <div  id="right_colomn">
+             <img  src="SomeURL"/>
+               <a class="right">Читают </a>
+               <a class="right">Коментируют </a>
+         <p><u>Новость 1</u></p>
+         <p><u>Новость 2</u></p>
+         <p><u>Новость 3</u></p>
+         <p><u>Новость 4</u></p>
+<form action="handler.php">
+  <p><b>Ответье на вопрос &quot;ОС&quot;?</b></p>
+  <p><input type="radio" name="answer" value="a1">БВМ<Br>
+  <input type="radio" name="answer" value="a2">Мерседез бенц<Br>
+  <input type="radio" name="answer" value="a3">Вольво</p>
+  <button type="sumbit"  name="Ответить">
+  <p><input type="submit"></p>
+
+ </form>
+
+<h3>Новинки</h3>
+ <img src="/supercar.png">
+         <p><u>Новость 1</u></p>
+         <p><u>Новость 2</u></p>
+         <p><u>Новость 3</u></p>
+         <p><u>Новость 4</u></p>
+</article>
+<h6>Дизайн от Ксеоарт </h6>
+</body>
+</html>
