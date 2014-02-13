@@ -130,7 +130,7 @@
   <p><input type="submit"></p>
 
  </form>
-
+</div>
 <h3>Новинки</h3>
  <img src="/supercar.png">
          <p><u>Новость 1</u></p>
