@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <header>
+            <img>
+        </header>
+        <nav>
+            <span id="reg">Рега</span> | <nav id="menu">Парапам | Парапампам</<nav>
+        </nav>
+        <aside>
+            <div id="ad"><img></div>
+            <div id="now">
+            <nav><h1>Читают</h1> | <h1>Комментируют</h1></nav>
+            <div id="thread">Кроссовер
+            <time pubdate datetime = "2020-20-20">Уже</time>
+            </div>
+            <div id="thread">Машина
+            <time pubdate datetime = "2020-20-20">Только что</time>
+            </div>
+            </div>
+            <div id="vote">
+                <h1>Как вы считаете...</h1>
+                Что такое томат?
+                <input type="radio" name="tomato" value="i">Я
+                <input type="radio" name="tomato" value="u">Ты
+                <button type="submit">Голосую!</button>
+            </div>
+            <div id="new">
+            <h1>Свежак</h1>
+            <div id="thread">Кабриолет
+            <time pubdate datetime = "2020-20-20">Вчера</time>
+            </div>
+            <div id="thread">Что-то еще
+            <time pubdate datetime = "2020-20-20">Сегодня</time>
+            </div>
+            </div>
+        </aside>
+        <div id="info"><time pubdate>текст</time></div>
+        <article>
+        <header>
+            <h1>Пост о БМВ</h1>
+        </header>
+        <time pubdate datetime = "2020-20-20">В будущем</time>
+        <address>Я</address>
+        <p>История о том, как возле столовой появились агадочные розовые следы с шестью пальцами, и почему это случилось.</p>
+        <blockquote>История о том, как возле столовой появились агадочные розовые следы с шестью пальцами, и почему это случилось.</blockquote> 
+        <p>История о том, как возле столовой появились агадочные розовые следы с шестью пальцами, и почему это случилось.</p>
+        <table>
+            <tr>
+                <td><table>
+                    <tr>
+                    <td>Штука 1</td><td>Круто</td>
+                    </tr>
+                    <tr>
+                    <td>Штука 2</td><td>Плохо</td>
+                    </tr>
+                    <td>Штука 3</td><td>Норм</td>
+                    <tr>
+                    </tr>
+                </table></td>
+                <td><ul>
+                <li>Штука 1</li>
+                <li>Штука 2</li>
+                </ul></td>
+            </tr>
+        </table>
+        <p>История о том, как возле столовой появились агадочные розовые следы с шестью пальцами, и почему это случилось.</p>
+        <p>
+            <img>
+        </p>
+        </article>                
+        </div>
+        <footer>
+            <span id="copyrigth">&copy; 2012 "Ua Web Challenge"</span>
+            <span id="social">Bla bla bla</span>
+            <span id="designed_by">Somebody</span>
+        </footer>
+    </body>
+</html>
